@@ -4,8 +4,11 @@ TM
 
 Notes utiles:
 -Sites et formats s’appellera correspondance
+
 -animation logo TM
+
 -piggy backing (oublié bouton créer un piggy backing)
+
 -Utilisateurs, le résultat vient en dessous du panneau recherche
 -créer un utilisateur (pop up? mauvaise idée) -> gestionnaire d’utilisateur, formulaire vertical
 -insérer documents associés dans le gestionnaire de campagnes
